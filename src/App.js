@@ -1,4 +1,6 @@
-import { useState, useRef, Fragment } from "react";
+import './App.css';
+
+import React,{ useState, useRef, Fragment } from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 import Gallery from "./components/Gallery";

@@ -12,7 +12,7 @@ export default function GalleryItem({ item }) {
     artworkUrl100,
     artistId,
     collectionId,
-    trackId
+    trackId,
   } = item;
 
   const simpleStyle = {
